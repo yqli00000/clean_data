@@ -1,0 +1,130 @@
+文件：F:\civitai_full_dataset\tables\table-1.csv下的base_model有:
+ - SD 1.5
+ - SDXL 1.0
+ - Pony
+ - SDXL Lightning
+ - SDXL Turbo
+ - Other
+ - SD 1.5 LCM
+ - SDXL 1.0 LCM
+ - SD 1.4
+ - SD 2.1 768
+ - Stable Cascade
+ - SD 2.0 768
+ - SD 2.0
+ - SD 2.1
+ - Playground v2
+ - SDXL Distilled
+ - SDXL 0.9
+文件：F:\civitai_full_dataset\tables\table-2.csv下的base_model有:
+ - SD 1.5
+ - Pony
+ - SDXL 1.0
+ - SDXL Lightning
+ - SDXL Turbo
+ - Other
+ - SD 1.5 LCM
+ - SD 1.4
+ - SDXL 1.0 LCM
+ - SD 2.0
+ - Playground v2
+ - Stable Cascade
+ - SD 2.1 768
+ - SDXL 0.9
+ - SD 2.0 768
+ - SD 2.1
+文件：F:\civitai_full_dataset\tables\table-3.csv下的base_model有:
+ - SD 1.5
+ - Pony
+ - SDXL 1.0
+ - SDXL Turbo
+ - SDXL Lightning
+ - Other
+ - SD 1.5 LCM
+ - SD 1.4
+ - SDXL 1.0 LCM
+ - Playground v2
+ - SD 2.1 768
+ - SD 2.1
+ - SDXL 0.9
+ - Stable Cascade
+ - SD 2.1 Unclip
+ - SD 2.0
+ - SD 2.0 768
+文件：F:\civitai_full_dataset\tables\table-4.csv下的base_model有:
+ - SD 1.5
+ - SDXL 1.0
+ - Pony
+ - SDXL Turbo
+ - SDXL Lightning
+ - SDXL Hyper
+ - SDXL 1.0 LCM
+ - SD 1.5 LCM
+ - Other
+ - SD 2.0
+ - SD 1.4
+ - SD 2.1
+ - Stable Cascade
+ - Playground v2
+ - SD 2.1 768
+ - SDXL 0.9
+ - SDXL Distilled
+ - SD 2.0 768
+文件：F:\civitai_full_dataset\tables\table-5.csv下的base_model有:
+ - SD 1.5
+ - SDXL Hyper
+ - SDXL 1.0
+ - Pony
+ - SDXL Turbo
+ - Other
+ - SDXL Lightning
+ - SDXL 1.0 LCM
+ - SD 2.0
+ - SD 1.5 LCM
+ - SD 1.4
+ - SD 2.1 Unclip
+ - SD 2.1 768
+ - Playground v2
+ - SDXL 0.9
+ - Stable Cascade
+ - SD 2.1
+ - SD 2.0 768
+ - SDXL Distilled
+文件：F:\civitai_full_dataset\tables\table-6.csv下的base_model有:
+ - SD 1.5
+ - SDXL 1.0
+ - Pony
+ - SDXL Hyper
+ - SDXL Turbo
+ - SDXL Lightning
+ - SD 1.5 Hyper
+ - SD 1.5 LCM
+ - Other
+ - SDXL 1.0 LCM
+ - Playground v2
+ - SD 2.1 768
+ - SD 2.1
+ - SD 1.4
+ - SD 2.0
+ - SD 2.0 768
+ - Stable Cascade
+ - SDXL 0.9
+文件：F:\civitai_full_dataset\tables\table-7.csv下的base_model有:
+ - SD 1.5
+ - SDXL 1.0
+ - SDXL Lightning
+ - SD 2.1 768
+ - Pony
+ - SDXL Hyper
+ - SD 1.5 Hyper
+ - SD 1.5 LCM
+ - SDXL Turbo
+ - Other
+ - Playground v2
+ - SD 2.0
+ - SDXL 1.0 LCM
+ - SD 1.4
+ - Stable Cascade
+ - SD 2.0 768
+ - SDXL 0.9
+ - SD 2.1
